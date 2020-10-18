@@ -1,4 +1,4 @@
-Super Resolution of Solar Line of Sight Magnetograms Using Deep Neural Network
+**Super Resolution of Solar Line of Sight Magnetograms Using Deep Neural Network**
 
 Image super-resolution is a collection of techniques that enhance the spatial resolution and quality of images by learning the intrinsic details and relations between the lower resolution input and the higher resolution output images. It is a widely-accepted ill-posed problem, which has seen tremendous advancements with deep learning-based models. In this work, we present two proof-of-concept deep learning-based super resolution models, Sub-Pixel Convolutional Neural Network (CNN) and Enhanced Deep Residual Networks (ResNet), which can be used for improving the spatial resolution of solar magnetograms. While the ill-posed nature of problem is a challenge, there are several application areas, including space weather prediction, which can greatly benefit from the improved spatial resolution of solar magnetograms. We show that through our experimental evaluation our models perform better than baselines and CNNbased super resolution model provides viable results for magnetogram super resolution.
 
