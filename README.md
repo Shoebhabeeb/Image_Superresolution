@@ -6,3 +6,16 @@ Index Terms—super resolution, magnetograms, neural network
 
 Data Availability
 https://drive.google.com/drive/u/0/folders/1fX15A3TUKHYe211Ap3vT1cwaQ9oT5qVN
+
+Step 1 : 
+
+CLone the repository
+
+Step 2 : 
+Download and unzip the drive folder which has the dataset inside this repository
+
+Step 3 :
+Run train.py which will give an updated model 
+
+Step 4 :
+Use the updated model on validation set
